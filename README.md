@@ -2,7 +2,7 @@
 #### Personal profile landing page, June 15,2019
 #### By **Aisa Jemila**
 ## Description
-Online link :https://aisaj.github.io/pro-portfolio/
+Online link: https://aisaj.github.io/pro-portfolio/
 This is a website representing my portfolio landing paging. It show cases my expertise in the programming field among other technical and professional skills. It is a brief identification of my profession and a bit of my social life.
 
 ## Preview
