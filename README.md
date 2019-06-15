@@ -7,7 +7,7 @@ This is a website representing my portfolio landing paging. It show cases my exp
 
 ## Preview
 
-[![Homepage]](../img/LandPage.png)
+![Home Page](/img/LandPage.png)
 
 **[View Live Preview](/img/LandPage.png)**
 
