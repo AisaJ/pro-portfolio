@@ -226,6 +226,9 @@ header.masthead .intro-text .intro-heading {
   margin: 15px 0;
   text-transform: none;
 }
+#portfolio-photo{
+  float: left;
+}
 
 #portfolio .portfolio-item {
   right: 0;
@@ -682,7 +685,6 @@ ul.social-buttons li a {
   outline: none;
   background-color: #303c6c;
 }
-
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #303c6c;
 }
