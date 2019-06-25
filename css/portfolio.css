@@ -228,7 +228,7 @@ header.masthead .intro-text .intro-heading {
 }
 #about-story{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 #portfolio .portfolio-item {
@@ -446,10 +446,10 @@ header.masthead .intro-text .intro-heading {
   height: 80px;
   margin-left: 0;
   text-align: center;
-  color: white;
-  border: 7px solid #e9ecef;
+  color: #303c6c;
+  border: 2px solid #e9ecef;
   border-radius: 50%;
-  background-color: #303c6c;
+  background-color: rgba(180,223,229,0.5);
 }
 
 .timeline > li .timeline-image h4 {
