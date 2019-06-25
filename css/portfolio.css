@@ -226,8 +226,8 @@ header.masthead .intro-text .intro-heading {
   margin: 15px 0;
   text-transform: none;
 }
-#portfolio-photo{
-  float: left;
+#about-story{
+  float: right;
 }
 
 #portfolio .portfolio-item {
