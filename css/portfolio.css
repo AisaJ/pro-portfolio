@@ -175,7 +175,7 @@ header.masthead {
   color: white;
   background-image: url("../img/code-girl.jpg");
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-position: center center;
   background-size: cover;
 }
